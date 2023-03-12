@@ -12,7 +12,7 @@ Cambiar google.com , por cualquier otra web
 
 
 
-## Obtener información de tu equipo
+## Obtener información de tú equipo
 
 ~~~~
 python info.py
